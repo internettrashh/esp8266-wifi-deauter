@@ -41,8 +41,3 @@ Version 2.0:
 - Better documentation on the new [wiki](https://github.com/spacehuhn/esp8266_deauther/wiki)
 
 
-<a href="https://raw.githubusercontent.com/pranaovs/Deauther_0.96-inch-OLED_RGB-LED/master/Bin_files/esp8266_deauther.ino.nodemcu.bin"><p align="center"><img alt="Binary Files" src="https://raw.githubusercontent.com/pranaovs/Deauther_0.96-inch-OLED_RGB-LED/master/images/bin.png" width="100"></p></a>
-
-<a href="https://www.youtube.com/capstv"><p align="center"><img alt="YouTube Channel" src="https://raw.githubusercontent.com/pranaovs/Deauther_0.96-inch-OLED_RGB-LED/master/images/youtube.jpg" width="100"></p></a>
-
-<a href="https://t.me/caps_tv"><p align="center"><img alt="Telegram Channel" src="https://raw.githubusercontent.com/pranaovs/Deauther_0.96-inch-OLED_RGB-LED/master/images/telegram.jpg" width="100"></p></a>
